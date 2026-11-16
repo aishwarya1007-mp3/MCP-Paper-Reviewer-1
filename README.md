@@ -120,8 +120,6 @@ Edit `checklist.txt` to change the evaluation criteria. The `get_review_checklis
 ## Team
 
 1. Aishwarya Gadhave
-2. Vishwajeet Godse
-3. Vaishnavi Repal
 
 ## License
 
